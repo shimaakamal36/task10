@@ -1,0 +1,19 @@
+*{ box-sizing: border-box;}
+div{
+    margin-right:auto;
+    margin-left:auto;
+    width:500px;
+    background-color: #FEE5E6;
+    text-align: center;
+}
+img{
+    margin-top:15px;
+    height:175px;
+}
+
+h1{
+    text-transform: capitalize;
+}
+p:last-child{
+    padding-bottom:20px;  
+ }
